@@ -1,3 +1,4 @@
-Salve rapaziada, 
-meu nome é Andreas Micheletti Polizelli, 
-estou estudando no Alura desenvolvendo a linguagem JavaScript e utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+Salve rapaziada, meu nome é Andreas Micheletti
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido.
